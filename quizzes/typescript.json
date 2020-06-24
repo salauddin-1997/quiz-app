@@ -1,8 +1,8 @@
 [
     {
-        "question": "Enter the command which runs the TypeScript compiler.",
+        "question": "my name",
         "type": "input",
-        "correctAnswer": "tsc"
+        "correctAnswer": "taju"
     },
     {
         "question": "Type annotations are mandatory for use.",
