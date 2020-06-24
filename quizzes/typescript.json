@@ -5,10 +5,10 @@
         "correctAnswer": "tsc"
     },
     {
-        "question": "Type annotations are mandatory for use.",
+        "question": "my name.",
         "choices": ["false", "true"],
         "type": "radio",
-        "correctAnswer": 0
+        "correctAnswer": taju
     },
     {
         "question": "Typescript supports enums.",
